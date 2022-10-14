@@ -4,7 +4,7 @@ Detection of obstacles in the roads using XYZ data
 i) PROBLEM DEFINITION
 
 BMS wants to detect obstacles on the roads utilizing XYZ axis data from the accelerometer of the units installed in the moving vehicles. 
-These detections will be used for the development for a digital twin platform where BMS is planning to monitor the state of bad potholes / speed bumps / etc.  
+These detections will be used for the development of a digital twin platform where BMS is planning to monitor the state of bad potholes / speed bumps / etc.  
 and provide data solutions in road authorities and municipalities where they can prioritize the fixing of obstacles 
 that are causing dangerous events or accidents in the roads
 
