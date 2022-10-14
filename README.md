@@ -8,4 +8,4 @@ i) A problem description \
 ii) Data explanation \
 iii) Expected outcome 
 
-Challengers are expected to create a PR and push their python / pyspark codes inside the corresponding folder of their assigned challenge.
+Applicants are expected to create a PR and push their python / pyspark codes inside the corresponding folder of their assigned challenge.
