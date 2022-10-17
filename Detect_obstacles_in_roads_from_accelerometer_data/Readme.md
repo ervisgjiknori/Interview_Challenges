@@ -22,18 +22,18 @@ ii) DATA UNDERSTANDING
 The XYZ dataset contains 10hz measurements of the accelerometer of a single vehicle for one day movement activity in rome.
 
 ------------------------------------------------------------------------------------------
-| Field             | Type           | Description                  | Unit precision  | Example
-------------------------------------------------------------------------------------------
-| acc_x             | float          | x-axis acceleration value    |  milli-g        | 10.4
-| acc_y             | float          | y-axis acceleration value    |  milli-g        |  9.3
-| acc_z             | float          | z-axis acceleration value    |  milli-g        |  9.3
-| speed             | float          | The acceleration speed       |  km/h           |  15.3
-| road_speed_limit  | integer        | The road speed limit         |  km/h           |  120
-| latitude          | float          | Geo position latitude        |  degrees        |  45.458943
-| longitude         | float          | Geo position longitude       |  degrees        |   2.228940
-| vehicle_make      | string         | The vehicle brand            |  -              |  hyundai
-| vehicle_model     | string         | The vehicle model            |  -              |  accent
-| road_type         | string         | The type of the road         |  -              |  local_road
+| Field             | Type           | Description                  | Unit precision  | Example \
+------------------------------------------------------------------------------------------ \
+| acc_x             | float          | x-axis acceleration value    |  milli-g        | 10.4 \
+| acc_y             | float          | y-axis acceleration value    |  milli-g        |  9.3 \
+| acc_z             | float          | z-axis acceleration value    |  milli-g        |  9.3 \
+| speed             | float          | The acceleration speed       |  km/h           |  15.3 \
+| road_speed_limit  | integer        | The road speed limit         |  km/h           |  120 \
+| latitude          | float          | Geo position latitude        |  degrees        |  45.458943 \
+| longitude         | float          | Geo position longitude       |  degrees        |  2.228940 \
+| vehicle_make      | string         | The vehicle brand            |  -              |  hyundai \
+| vehicle_model     | string         | The vehicle model            |  -              |  accent \
+| road_type         | string         | The type of the road         |  -              |  local_road \
 
 iii) Expected results
 * The candidate should create a folder with his/her name inside the directory <<Results>>
