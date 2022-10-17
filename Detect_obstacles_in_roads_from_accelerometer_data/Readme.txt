@@ -1,5 +1,4 @@
-
-Detection of obstacles in the roads using XYZ data
+## Detection of obstacles in the roads using XYZ data
 
 i) PROBLEM DEFINITION
 
@@ -43,11 +42,3 @@ iii) Expected results
 * Any other material they want to include
 
 The candidates are expected to add an evaluation of their proposed solution with clearly defined metrics that they will choose
-
-
-
-
-
-
-
-
